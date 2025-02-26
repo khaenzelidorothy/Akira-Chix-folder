@@ -1,0 +1,70 @@
+  		PYTHON
+  Features
+Python is an interpreted language.(does not need to be compiled and the machine interprets it directly)
+Easy to use data structure.
+Object-oriented programming language. Composed of objects, used for functional programming
+Extensive standard library.( alot of built in modules for tasks like networking, file handling, authetication
+ Minimal set  up.
+ Python shell -allows you to interact with python on the terminal.
+ 
+ 		What can we do with python
+ Web application development. Robust cloud based applications.(django,
+ Data science and analytics.(pandas, Numpy, Matlotlib)
+ Machine learning and AI - (tensorflow, pytorch)
+ Natural language processing(NLP) such as speech recognition, language translation, text analysis, sentiment analysis.
+ Cybersecurity and networking
+ Cloud automation and devOPs.
+ Mobile development (kivy)
+ 
+ 		Python interpreter(python shell)
+ - Command line used for interacting with the python language
+ python3 -V
+ python3 >>>
+ 
+ 		Python operators/ symbols
+ 	Arithmethic operators
+ 	operator		operation		example
+   +			   Addition
+   -			  Subtraction
+   *			  Multiplication
+   /			  Division(float output)
+ //			  whole number division
+  %			  modulus(remainder of a division)
+ **			  Exponent/power of
+  
+  		Comparison operators - used to compare values and always return True or False
+  	Operator	 Meaning	       Example		Result
+  ==		equal to( if values are equal)	3==3   True(value if a==b)otherwise(False)
+  !=		not equal to			       True(value if a!=b)otherwise False
+  <		less than			       True(value if a<b)otherwise False
+  <=		less than or equals to		       True(value if a<=b)otherwise False
+  >		Greater than			       True(value if a>b)otherwise False
+  >=		Greater than or equals to	     True(value if a>=b)otherwise False
+  	       
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

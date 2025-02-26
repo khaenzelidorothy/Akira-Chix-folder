@@ -1,0 +1,17 @@
+a merge conflict occurs when the same file is changed on the current branch and the branch that is being merged.
+git branch -d feature/login - deletes the branch
+ the git remote -v command returns a verbose list of remote repositories that the current project is tied to, Git lists the name of the remote repository as well as its locations.
+ the git push origin branch-name command pushes the branch, and all committed changes, to the remote.
+ A remote is a shared Git repository that allows multiple collaborators to work on the same Git project from different locations. Collaborators work on the project independently and merge changes together when they are ready to do so.
+the git merge origin/branch-name command will merge fetched changes, stored in origin/branch-name to the current branch-name branch.
+
+			STEPS
+   Manage projects with Repositories
+   Clone a project to work on a local copy
+   Control and track changes with Staging and Committing
+   Branch and Merge to allow for work on different parts and versions of a project
+   Pull the latest version of the project to a local copy
+   Push local updates to the main project
+
+
+

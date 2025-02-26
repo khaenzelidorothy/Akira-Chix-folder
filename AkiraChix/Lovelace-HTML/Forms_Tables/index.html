@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        form{
+            border: solid 1px;
+            width: 40%;
+            margin: 0 auto;
+            padding: 10px;
+        }
+        input{
+            padding: 8px 12px;
+            width: 90%;
+            margin: 5px 0;
+        }
+        #submit_button{
+            background: none;
+            border: none;
+            border-radius: 5px;
+            padding: 8px 12px;
+            background-color: rgb(51, 80, 70);
+            color: white;
+            cursor: pointer;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <form> 
+        <label for="first_name">First Name</label>
+        <br>
+        <input type="text" id="first_name" placeholder="Enter first name"/>
+        <br><br>
+        <label for="last_name">Last Name</label>
+        <br>
+        <input type="text" id="last_name" placeholder="Enter last name"/>
+        <br><br>
+        <label for="email">Email</label>
+        <br>
+        <input type="email" id="email" placeholder="Enter email address"/>
+        <br><br>
+        <label for="phonenumber">Phonenumber</label>
+        <br>
+        <input type="text" id="phonenumber" placeholder="Enter phonenumber"/>
+        <br><br>
+        <label for="date_of_birth">D.O.B</label>
+        <br>
+        <input id="date_of_birth" placeholder="Enter DOB" type="date"/>
+        <br><br>
+        <label for="password">Password</label>
+        <br>
+        <input type="password" placeholder="Enter password" id="password"/>
+        <br><br>
+        <button type="submit" id="submit_button">Create Account</button>
+
+    </form>
+</body>
+</html>
